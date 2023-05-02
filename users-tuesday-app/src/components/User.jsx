@@ -26,4 +26,4 @@ import { Button, Card,Col } from 'react-bootstrap'
   }
 }
 
-export default User
+export default User;
